@@ -445,11 +445,34 @@ Free to use, modify, and distribute.
 
 ---
 
-## Credits
+## Credits and Attribution
 
-**Theoretical Foundation:** Sherwin Vakili  
-**Implementation:** Alborz Teymoorzadeh  
-**Project:** IC Project
+### Theoretical Foundation
+This calendar system is based on the theoretical framework developed by **Sherwin Vakili** in his paper "On the Determination of the Epoch of History" (درباره تعیین مبدأ تاریخ). The 3000 BCE epoch is established through extensive historical and archaeological research.
+
+### Implementation
+The Python package was developed by **Alborz Teymoorzadeh**, including:
+- Algorithm design and implementation
+- Data validation and testing framework
+- Command-line interface
+- Package distribution and documentation
+
+### How to Cite
+
+**Software:**
+```
+Teymoorzadeh, A. (2026). Iranian Calendar (IC) Python Package (Version 1.0.0) 
+[Computer software]. https://github.com/AlborzStudio/iranian-calendar
+Based on theoretical framework by Sherwin Vakili.
+```
+
+**Academic:**
+```
+Vakili, S. On the Determination of the Epoch of History (درباره تعیین مبدأ تاریخ).
+Implementation: Teymoorzadeh, A. (2026). Iranian Calendar Python Package.
+```
+
+See [AUTHORS.md](AUTHORS.md) for complete attribution information.
 
 ---
 
