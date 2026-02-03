@@ -476,11 +476,39 @@ See [AUTHORS.md](AUTHORS.md) for complete attribution information.
 
 ---
 
-## Support
+## Support the Project
 
-- **Documentation:** See included markdown files
-- **Project Plan:** PROJECT_PLAN.md
-- **Issues:** Create GitHub issue (when repository is public)
+This calendar system is free and open-source software developed and maintained by **Alborz Teymoorzadeh**, based on the theoretical framework by **Sherwin Vakili**.
+
+### Ways to Support
+
+If your organization or project benefits from this work, please consider:
+
+- ⭐ **Star this repository** - Show your appreciation and help others discover it
+- 📢 **Share and credit** - Mention this project when you use it
+- 🐛 **Report issues** - Help improve the package
+- 💡 **Contribute code** - See [CONTRIBUTING.md](CONTRIBUTING.md)
+- 💰 **Sponsor development** - Contact for sponsorship opportunities
+
+### Commercial Support
+
+For organizations requiring:
+- Custom implementations or integrations
+- Enterprise support and SLA
+- Training and consulting
+- Feature development
+
+**Contact:** 
+- **Commercial inquiries:** [Contact form](https://alborz.studio/contact)
+- **Technical questions:** Open a [GitHub issue](https://github.com/AlborzStudio/iranian-calendar/issues)
+
+### Attribution
+
+When using this calendar system in your product, please credit:
+- **Sherwin Vakili** (theoretical framework)
+- **Alborz Teymoorzadeh** (implementation)
+
+Proper attribution helps others discover and benefit from this work.
 
 ---
 
