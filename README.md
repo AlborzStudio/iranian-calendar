@@ -1,5 +1,12 @@
 # Iranian Calendar (IC)
 
+[![Tests](https://github.com/AlborzStudio/iranian-calendar/actions/workflows/tests.yml/badge.svg)](https://github.com/AlborzStudio/iranian-calendar/actions/workflows/tests.yml)
+[![PyPI version](https://badge.fury.io/py/iranian-calendar.svg)](https://badge.fury.io/py/iranian-calendar)
+[![Python](https://img.shields.io/pypi/pyversions/iranian-calendar.svg)](https://pypi.org/project/iranian-calendar/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A comprehensive Python package for the Iranian Calendar (IC) system...
+
 **Version:** 1.0.0  
 **Status:** Production Ready  
 **Python:** 3.8+  
