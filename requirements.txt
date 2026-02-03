@@ -1,0 +1,17 @@
+# IC Calendar - Iranian Calendar Implementation
+# Python 3.8+
+
+# Core functionality (built-in, no installation needed)
+# - datetime
+# - calendar  
+# - math
+
+# Optional: Astronomical calculations (for precise Nowruz)
+# Choose ONE of these (ephem recommended for simplicity):
+# ephem>=4.1.4
+# skyfield>=1.45
+# astropy>=5.2
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
